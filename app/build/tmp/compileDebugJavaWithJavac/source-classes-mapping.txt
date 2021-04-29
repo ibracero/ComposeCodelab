@@ -1,0 +1,2 @@
+developer/android/compose_codelab/BuildConfig.java
+ developer.android.compose_codelab.BuildConfig
